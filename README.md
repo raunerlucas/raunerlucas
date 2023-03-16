@@ -29,3 +29,9 @@
 </div>
 
 ##
+
+<div>
+
+ ![Snake animation](https://github.com/RAUNER25/RAUNER25/blob/main/.github/workflows/snake.yml)
+ 
+</div>
