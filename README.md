@@ -6,9 +6,9 @@
 ##
 
 <div>
-  <img height="220em"  src="https://github-readme-stats.vercel.app/api?username=RAUNER25&show_icons=true&theme=transparent">
-  <img height="220em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAUNER25&layout=compact&theme=transparent">
-  <img width="99%"  src="https://github-readme-stats.vercel.app/api/wakatime?username=@RAUNER25&theme=transparent">
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=RAUNER25&show_icons=true&theme=transparent">
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAUNER25&layout=compact&theme=transparent">
+  <img width="50%"  src="https://github-readme-stats.vercel.app/api/wakatime?username=@RAUNER25&theme=transparent">
 </div>
 
 <div style="display: inline_block"><br>
@@ -29,9 +29,3 @@
 </div>
 
 ##
-
-<div>
-
- ![Snake animation](https://github.com/RAUNER25/RAUNER25/blob/main/.github/workflows/snake.gml)
- 
-</div>
