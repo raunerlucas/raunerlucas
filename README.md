@@ -13,7 +13,7 @@
 📞:<br>
  <a href="https://wa.me/+5563981160511" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-f?style=for-the-badge&logo=Whatsapp&logoColor=fff" target="_blank"></a>
 
- <a href="https://www.linkedin.com/in/rauner-lucas-amaral-0b3a8a199/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://www.linkedin.com/in/raunerlucas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://discord.gg/AuttCh6fkY" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:raunerlucas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
